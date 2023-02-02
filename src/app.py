@@ -1,2 +1,2 @@
-def sum (a,b):
- return a + b
+form flask import Flask
+app = Flask (__name__)
